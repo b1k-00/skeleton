@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uycTW1lvboGADkqdQJ4TMh7SZjfEkmLRRN4Ij2YSADw=",
+  "Source": "InjectDepend",
+  "BasePath": "_content/InjectDepend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
